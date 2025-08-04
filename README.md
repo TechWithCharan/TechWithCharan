@@ -1,3 +1,7 @@
+![👋 Hi, my name is S. Charan Sai](https://www.21kschool.com/za/wp-content/uploads/sites/23/2024/03/What-Is-Block-Coding-For-Kids_Guide-To-Get-Started-With-Learning-Block-Coding.jpg)
+
+![Profile views](https://komarev.com/ghpvc/?username=TechWithCharan&label=Profile%20views&color=0e75b6&style=flat)
+
 <h1 align="center" style="font-size: 2.8rem;">✨ S. Charan Sai ✨</h1>
 
 <h3 align="center">
@@ -6,7 +10,7 @@
 </h3>
 
 <p align="center">
-  🔧 Turning logic into working software — one commit at a time.<br>
+  🔧 Turning logic into working software — one commit at a time. <br>
   📊 Solving real-world problems with code and data.
 </p>
 
@@ -49,6 +53,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=TechWithCharan&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&theme=tokyonight&show_icons=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=TechWithCharan&theme=tokyonight" />
 </p>

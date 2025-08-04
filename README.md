@@ -31,7 +31,7 @@ Let’s connect — and build systems that matter.</h3>**
 
  **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="28" alt="Java" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="28" alt="CSS3" style="margin-right: 18px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="28" alt="Java" style="margin-right: 18px"align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="28" alt="MySQL" style="margin-right: 18px"align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="28" alt="HTML5" style="margin-right: 18px"align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="28" alt="CSS3" style="margin-right: 18px"align="center"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 

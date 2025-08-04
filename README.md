@@ -1,4 +1,4 @@
-<img src="IMAGE_LINK_HERE" alt="GitHub Banner" style="width:100%; border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/TechWithCharan/TechWithCharan/main/A_banner_in_digital_graphic_design...png" alt="GitHub Banner" style="width:100%; border-radius: 10px;" />
 # 👋 Hi, I'm S. Charan Sai — SQL & Java Enthusiast | Backend Developer in Progress
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/s-charan-sai-16613b245/)

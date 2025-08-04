@@ -2,57 +2,56 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=TechWithCharan&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1 align="center" style="font-size: 2.8rem;">✨ S. Charan Sai ✨</h1>
+---
 
-<h3 align="center">
-  🎓 Final-year B.Tech Student @ REVA University <br>
-  💻 SQL & Java Enthusiast | Backend Developer in Progress
-</h3>
+<h1 align="center">👋 Hi, my name is S. Charan Sai</h1>
+
+<h3 align="left">🎓 Final-year B.Tech student | Aspiring Backend Developer | SQL & Java Enthusiast</h3>
+
+Hi, I’m Charan Sai — a driven tech learner from REVA University, building my backend development skills with hands-on experience in Java and SQL.  
+I'm excited to contribute wherever logic meets real-world problems.
+
+Let’s connect — and build systems that matter.
+
+---
+
+<h3 align="left">📫 Connect with me:</h3>
+
+<a href="mailto:charansaicherry2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+</a>
+<a href="https://www.linkedin.com/in/s-charan-sai-16613b245/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
+</a>
+<a href="https://github.com/TechWithCharan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
+</a>
+
+---
+
+<h3 align="left">⚡ Rapid Fire</h3>
+
+- 💼 I'm currently working on: **hospital-appointment-analytics-sql**  
+- 🌱 I'm currently learning: **Java**  
+- 💬 Ask me about: **HTML, CSS, Java, MySQL**  
+- 😄 Fun fact: **🐛 Bug Life: “I have a bug in my code. I added a comment to fix it later. Now I have two bugs.”**
+
+---
+
+<h3 align="center">🛠️ Skills</h3>
 
 <p align="center">
-  🔧 Turning logic into working software — one commit at a time. <br>
-  📊 Solving real-world problems with code and data.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="CSS3" />
 </p>
 
-<p align="center">
-  <a href="mailto:charansaicherry2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/s-charan-sai-16613b245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/TechWithCharan"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 ---
 
-### 🚀 Highlights
-
-- 🔭 Working on: `Hospital Appointment Analytics - SQL Project`
-- 🌱 Learning: `Core Java, JDBC, DSA`
-- 📜 Certified: `Java (Udemy, 16.5 hrs)`, `SQL Analytics`
-- 📬 Reach me: `charansaicherry2004@gmail.com`
-- ⚡ Fun Fact: _“I added a comment to fix a bug later. Now I have two bugs.”_
-
----
-
-### 💼 Featured Project
-
-[`📊 Hospital Appointment Analytics`](https://github.com/TechWithCharan/hospital-appointment-analytics-sql)  
-> A pure SQL-based analytical project solving real-world healthcare problems — no-shows, workload balancing, revenue tracking, and more.
-
----
-
-### 🛠️ Core Tech Stack
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS3"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&theme=tokyonight&show_icons=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=TechWithCharan&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&show_icons=true&theme=default" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=TechWithCharan&theme=default" />
 </p>

@@ -52,6 +52,7 @@ Let’s connect — and build systems that matter.
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&theme=default&cache_seconds=1800&border_radius=4&show_icons=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=TechWithCharan&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D" alt="GitHub streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TechWithCharan&show_icons=true&theme=default" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=TechWithCharan&theme=default" />
 </p>
+
